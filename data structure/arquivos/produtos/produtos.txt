@@ -1,0 +1,6 @@
+1,televisao,samsung,1250.00,150
+2,tablet,motorola,5000.00,300
+3,torradeira,eletrolux,300.00,60
+4,cafeteira,apple,500.00,100
+5,camera,sony,9000.00,600
+6,computador,dell,3560.00,15
