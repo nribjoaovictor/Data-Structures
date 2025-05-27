@@ -1,0 +1,16 @@
+ID: 1   Título: Dom Casmurro   Autor: Machado de Assis   Ano: 1899   Quantidade:4 
+ID: 2   Título: O Senhor dos Anéis   Autor: J.R.R. Tolkien   Ano: 1954   Quantidade:2 
+ID: 3   Título: 1984   Autor: George Orwell   Ano: 1949   Quantidade:5 
+ID: 4   Título: A Revolução dos Bichos   Autor: George Orwell   Ano: 1945   Quantidade:3 
+ID: 5   Título: O Pequeno Príncipe   Autor: Antoine de Saint-Exupéry   Ano: 1943   Quantidade:7 
+ID: 6   Título: Cem Anos de Solidão   Autor: Gabriel García Márquez   Ano: 1967   Quantidade:1 
+ID: 7   Título: Hamlet   Autor: William Shakespeare   Ano: 1603   Quantidade:6 
+ID: 8   Título: Orgulho e Preconceito   Autor: Jane Austen   Ano: 1813   Quantidade:8 
+ID: 9   Título: Moby Dick   Autor: Herman Melville   Ano: 1851   Quantidade:2 
+ID: 10   Título: O Grande Gatsby   Autor: F. Scott Fitzgerald   Ano: 1925   Quantidade:3 
+
+
+ Livro mais antigo: ID: 7   Título: Hamlet   Autor: William Shakespeare   Ano: 1603   Quantidade:6 
+
+
+ Maior quantidade do exemplar: ID: 8   Título: Orgulho e Preconceito   Autor: Jane Austen   Ano: 1813   Quantidade:8 

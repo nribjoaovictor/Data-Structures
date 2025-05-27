@@ -1,0 +1,21 @@
+Exercício 1 - Cadastro de Livros na Biblioteca
+Enunciado:
+
+Um sistema de biblioteca precisa armazenar informações sobre livros disponíveis para empréstimo. Cada livro possui os seguintes atributos:
+
+id (inteiro)
+
+título (string)
+
+autor (string)
+
+ano de publicação (inteiro)
+
+quantidade disponível (inteiro)
+
+Faça a modelagem em C de uma tabela para armazenar até 15 livros.
+Crie um programa principal que leia os dados dos livros a partir de um arquivo texto chamado livros.txt.
+Após a leitura, salve em um arquivo relatorio.txt:
+a) A tabela completa, formatada;
+b) Os dados do livro mais antigo;
+c) Os dados do livro com maior quantidade disponível.
