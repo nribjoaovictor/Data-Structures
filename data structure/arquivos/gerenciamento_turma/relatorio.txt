@@ -1,0 +1,20 @@
+2023001 Carlos Silva 8.50 7.00 6.00 
+
+2023002 Fernanda Lima 9.00 9.50 10.00 
+
+2023003 Bruno Souza 5.00 6.00 4.50 
+
+2023004 Paula Mendes 7.00 7.00 7.00 
+
+2023005 Luciana Rocha 6.00 5.50 6.00 
+
+
+
+ Média Total : 6.93
+
+aprovado: 2023001 Carlos Silva 7.17
+aprovado: 2023002 Fernanda Lima 9.50
+aprovado: 2023004 Paula Mendes 7.00
+reprovado: 2023003 Bruno Souza 5.17
+reprovado: 2023005 Luciana Rocha 5.83
+maior media : 9.50 do Fernanda Lima
