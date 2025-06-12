@@ -1,0 +1,46 @@
+RELATÓRIO TOTAL EM ESTOQUE (R$) 
+
+ Samsung    10600.00
+ Corsair    3820.00
+ Logitech    1850.00
+ Gigabyte    6600.00
+ Kingston    5100.00
+ Crucial    3900.00
+ AMD    11700.00
+ Cooler Master    2000.00
+ HyperX    700.00
+ AOC    7500.00
+ Dell    23000.00
+ Brother    3000.00
+ Razer    850.00
+ Lenovo    1200.00
+ TP-Link    1200.00
+ Microsoft    8300.00
+ Asus    8700.00
+ Seagate    1950.00
+ MSI    3000.00
+ Noctua    1200.00
+ LG    13800.00
+ EVGA    17600.00
+ Intel    15000.00
+ Sony    900.00
+ Epson    1800.00
+ Cisco    6000.00
+ SteelSeries    900.00
+ Creative    500.00
+ ASUS    2400.00
+ D-Link    600.00
+ Acer    10200.00
+ HP    400.00
+ ADATA    2000.00
+ JBL    500.00
+ Philips    1350.00
+ Canon    2000.00
+
+
+MAIOR TOTAL EM ESTOQUE :  Dell  23000.00 
+
+
+
+MENOR TOTAL EM ESTOQUE :  HP  400.00 
+
