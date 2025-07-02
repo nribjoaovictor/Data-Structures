@@ -1,0 +1,16 @@
+busca sequencial
+
+fazer operações sobre um pedaço de um dado
+
+no hashing não tem processo para retornar, diferente da criptografia, que permite fazer um processo inverso.
+
+taxa de ocupação - tam do vetor
+
+por exemplo - uma sala tem 20 alunos
+
+vai trabalhar com um vetor com uma ocupação de 75%, portanto 20/0,75 = 26, 26 será o tamanho do vetor
+isso vai garantir espaço para hashing e colisões
+
+tratamento de colisões:
+tratamento por encadeamentos: 
+criar um vetor de listas
