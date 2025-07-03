@@ -1,0 +1,5 @@
+AAA-1234, Ford, kA, 200000
+BBB-1234, GM, Prisma, 250000
+CCC-1234, Toyota, Etios, 100000
+DDD-1234, Hond, VRD, 50000
+EEE-1234, BYD, Dolphin, 90000
